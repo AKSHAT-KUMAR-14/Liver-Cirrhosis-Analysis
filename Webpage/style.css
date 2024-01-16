@@ -1,0 +1,40 @@
+body {
+    background-color: #5384ce;
+    color: #3FA7D6;
+    font-family: "Fjalla One", Arial;
+  }
+  
+  .overlay {
+    width: 80%;
+    min-width: 30%;
+    margin: 3% auto;
+    display: block;
+    padding: 2%;
+    height: 90vh;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 40px;
+    text-align: center;
+  }
+  
+  body {
+    background-color: rgb(57, 169, 219);
+    font-family: Rubik, Arial;
+  }
+  
+  form {
+    text-align: center;
+    line-height: 30px;
+    height: 80%;
+    overflow: auto;
+  }
+  
+  form hr {
+    width: 25%;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+
+  
